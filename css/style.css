@@ -1,0 +1,21 @@
+.jumbotron{
+
+	background:url(../img/bg.jpg);
+	background-position: center center;
+	background-size: cover;
+	text-align: center;
+	color:#fff;
+
+}
+
+.nav-link{
+
+	margin-bottom: 3px;
+}
+.nav-link:hover{
+background:none !important; 
+border-bottom:#fff 3px solid;
+margin-bottom: 0px;
+
+
+}
